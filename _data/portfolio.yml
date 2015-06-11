@@ -1,0 +1,56 @@
+- title: International Glycan Repository
+  subtitle: International GlycoInformatic Repository
+  layout: default
+  modal-id: 1
+  date: 2014-06-1
+  img: img/portfolio/glytoucan-large.png
+  thumbnail: img/portfolio/glytoucan.png
+  alt: glytoucan glycan 
+  project-date: June 2014
+  client: JST
+  clientUrl: http://www.jst.go.jp/
+  service: glycoinformatic linked data registry
+  serviceUrl: https://www.glytoucan.org
+  description: The International Glycan Repository is used to register and identify Glycan structures.
+- title: Secret Project 1
+  subtitle: App Business
+  layout: default
+  modal-id: 2
+  date: 2014-08-15
+# https://www.flickr.com/photos/longitudelatitude/3819075931/in/photolist-6PtLdK-9DQFXp-oEZGzH-3TxrQ-64VeGd-ransq5-5rqrLk-fsUQbB-9DGswv-3LAVm-4JaujN-T5LBm-4VK5ud-djEq8z-4VBGMU-rYX72q-hUd32r-q1V72G-7yQ9B9-foHtu4-nW9opM-oaj7M-4EuM52-dKVbtx-53NsJN-q29Q1T-ppoV2Z-9LDDt2-bd8tme-93nppR-gYhddK-4Djocb-dR4soj-bd8tVi-pw83tC-dTJPY2-3FAKhY-fPrvJQ-4K6FKf-4K2rdZ-4K6FH9-iZrxKP-8jApZH-9eecCZ-p7sep9-9dEQQf-dSDAM5-foHt4T-96XZ1-qFvjoH
+  img: img/portfolio/reptile-large.jpg
+  thumbnail: img/portfolio/reptile.jpg
+  alt: reptile trackit
+  project-date: August 2014
+  client: BallPython
+  service: Mobile Development
+  description: Secret project that will be released soon.
+- title: Secret Project 2
+  subtitle: Site Business
+  layout: default
+  modal-id: 3
+  date: 2015-01-15
+#https://www.flickr.com/photos/eikoeikoeiko/4530351367/in/photolist-7UkeCk-73Ue93-21ZoJm-5kiiku-tTWwz-21ZnMo-njjHFh-vKcUu-vKkWE-MsPo5-bBe34e-4nDbJR-9NTr6-mjErq-cL5VC-5jkhYt-57BwHf-6z52VZ-d18p2-d18p3-5jkhZz-5jpAnA-6z539p-mrQ7K-5zpnnP-5ztDLS-7oQMUw-7CSjcP-6z97CJ-5RCDmc-5RGWTQ-6z97Q3-21Zp65-5br24n-5kkMhQ-36y3Zc-dCi5vW-e3qCy1-9LxYeK-dCi4ts-9ba6Dw-4feb6-5BJWR7-kW5mZg-47ZwAM-5BEEWa-5BJWMU-5BJWM5-5BJWKA-e4h53P
+  img: img/portfolio/language-large.jpg
+# https://www.flickr.com/photos/joelmontes/4762384399/in/photolist-8fQsXR-cGyFqU-72SjEQ-9myGw3-d7diQf-B2YPU-5gPsWq-2od2G-72SjZy-8A6XQV-bRSyM-5hsZj6-7yVbNs-5CyoJ5-dRxVrv-7RMgBu-689RP6-7BdqH8-6HR8nH-a9AWA1-bzW9T1-5zApKB-9eKvZr-8vGnwi-jgZaXy-7kPxbV-3YYWrM-5b4DR5-bisQyR-5iUzo6-65kmXz-65eMvn-e8Usqo-8ykv7K-5XFsPv-5CyoMb-867CsB-7BdqHi-bLPEDH-5gPsUf-5CyoNo-ecU87t-5FJmg9-5FJmhW-974n1w-rz3hij-8Aa4Pm-9XwYzp-aHJLkF-e8Usnw
+  thumbnail: img/portfolio/language.jpg
+  alt: tansaku proofreading
+  project-date: January 2015
+  client: Researchers
+  service: Web Business
+  description: Another secret project that will be released very soon.
+#- title: Beans that Sparql
+#  subtitle: Open Source Framework
+#  layout: default
+#  modal-id: 4
+#  date: 2014-09-15
+# https://www.flickr.com/photos/javcon117/16843635496/in/photolist-qatn7x-6p2AoD-7A5SvZ-7DuFea-rEq31y-sc1d6m-rGBpAP-6iPPXL-6iPJh3-6iPMpj-pVNFjq-EJrQ8-6iKAok-G5Cx4-x1Bsg-mk7ZN-gGgQ6-kyn8t-fj4po-6iKAAF-fXs6S-5ekMVq-6iKBSv-6iKBjK-nEjyGA-81j3PQ-6tRcq1-6iPHfC-pFtzn7-7Dyu3A-7DuFBB-7DyuqL-7Dyuxs-7DuEZR-7DuFtB-7DytMS-7DuFYT-6iKxWK-6iPMDm-nKkQqt-bWS5qT-6iKzaV-6iPNDU-6iKzKR-6iKyk4-5EVenu-5EVeny-6iKCer-jnN4tz-qNLHD7
+#  img: img/portfolio/bean-large.jpg
+# https://www.flickr.com/photos/genericbrandproductions/4460219407/in/photolist-7N8MQB-dXpt9C-qc9Wrv-6K3gSn-n5gdgK-9eJK5G-9eJK2L-9eJJYN-9eFCVX-9eJJSw-9eJJPA-9eFCLk-9eFCHg-9eFCCP-9eFCyB-9eFCuF-9eFCrF-jkLZ4N-6wgstQ-2QKGEw-q31qeh-XcJx6-e5V9qm-8iVPh1-Xh9pf-5nbaZs-iGZNn4-4DZsap-a4rP9S-8kAHec-23zT4N-8iSAyp-iH4UD5-8kDS8J-8kDSoS-Xh9AE-a2F5Bm-a2CgFV-a2F5DJ-bsLyUf-8iSAKc-9cFjWu-8ZR8Zj-8iSAPc-btvTvn-a2CgNv-8kADJF-iH19UM-a2Cevr-8kAHge
+#  thumbnail: img/portfolio/bean.png
+#  alt: RDF sparql java framework ETL
+#  project-date: Sept 2014
+#  client: Anyone
+#  service: Linked Data ETL Framework
+#  description: Secret project that will be released soon.
+

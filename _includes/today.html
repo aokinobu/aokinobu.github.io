@@ -1,0 +1,16 @@
+<section id="today">
+{% assign post = site.posts[0] %}
+<div class="container">
+  <div class="row">
+    <div class="jumbotron">
+      <h1>{{ post.title }}</h1>
+      <p>
+        {{ post.excerpt }}
+      </p>
+      <p class="text-info">{{ post.date | date: "%b %-d, %Y" }}
+        <a class="btn btn-primary pull-right" href="{{post.url}}" >Learn more</a>
+      </p>
+    </div>
+  </div>
+</div>
+</section>
