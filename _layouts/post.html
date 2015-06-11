@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+{% include headblack.html %}
+<body id="page-top" class="index">
+{% include header.html %}
+<section>
+<div class="container">
+<div class="jumbotron">
+<h1>
+        {{ page.title }}
+</h1>
+<p>
+        {{ page.content }}
+</p>
+  <p class="text-info">{{ page.date | date: "%b %-d, %Y" }}
+</div>
+
+
+{% comment %}
+  <div class="row">
+    <div class="col-lg-15 text-center">
+      <h2>{{ page.title }}</h2>
+      <div><p class="lead">{{ content }}</p></div>
+      <div><span class="post-date">{{ page.date | date: "%b %-d, %Y" }}</span></div>
+    </div>
+  </div>
+{% endcomment %}
+</div>
+</section>
+{% include footer.html %}
+</body>
+</html>
