@@ -16,7 +16,9 @@ post.title: title
         {{ post.excerpt }}
 </p>
   <p class="text-info">{{ post.date | date: "%b %-d, %Y" }}
+{% comment %}
   <a class="btn btn-primary pull-right" href="{{post.url}}" >Learn more</a></p>
+{% endcomment %}
 </div>
     {% endfor %}
 
