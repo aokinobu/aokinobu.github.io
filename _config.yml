@@ -1,0 +1,79 @@
+#url: blog.bluetree.jp
+url: http://blog.bluetree.jp
+#baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: bluetree.jp
+year: 2015
+email: aokinobu@gmail.dot.com
+description: "bluetree.jp is where you can find everything about the bluetree family."
+
+paginate: 4
+paginate_path: /blog/page:num/
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 005CE6
+  #primary: 4242ef
+  #secondary: 2E2EA7
+  secondary: 004AB8
+  secondary-dark: FFF
+
+# Team names, titles and social links
+people:
+- name: Nobuyuki Aoki
+  pic: 1
+  position: Blue Tree Creator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+#- name: Larry Parker
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+
+#- name: Diana Petersen
+#  pic: 3
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/aokinobu
+  - title: facebook
+    url: http://facebook.com/aokinobu
+  - title: rss
+    url: /rss.xml
+  - title: bitbucket 
+    url: http://bitbucket.org/aokinobu
+  - title: github
+    url: http://github.com/aokinobu
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 1234 Blue Tree Lane
+  - line: Ibaragi, Japan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+gems: [jekyll-paginate]
