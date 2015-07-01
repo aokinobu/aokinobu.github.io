@@ -3,7 +3,7 @@ title: Jekyll
 subtitle: Github Pages and Jekyll
 layout: post
 date: 2015-06-01
-category: blog architecture
+category: [blog, architecture]
 description: First post.  Github pages and jekyll, mind-exploded.
 ---
 The moment I started to read about how github pages work and then how it is using jekyll to host the pages, my mind [literally](http://www.merriam-webster.com/dictionary/literally) exploded.  _Dictionaries are funny._

@@ -3,7 +3,7 @@ title: mama's book
 subtitle: Mother's book
 layout: post
 date: 2015-07-01
-category: book family
+category: [book, family]
 description: My mother has released a book!
 ---
 My mom has been working on a book for many years, and finally found the opportunity to write one for a major Japanese publisher.

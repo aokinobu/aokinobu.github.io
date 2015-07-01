@@ -3,7 +3,7 @@ title: reason one
 subtitle: Github Pages and Jekyll
 layout: post
 date: 2015-06-16
-category: japan cannot leave
+category: [japan, reason, live]
 description: reason #1 why I cannot leave Japan
 ---
 Losing your wallet is a fairly stressful experience.
