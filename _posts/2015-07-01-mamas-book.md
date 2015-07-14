@@ -13,4 +13,4 @@ It's now available on amazon here:
 
 Sorry to non-Japanese readers, it's only in her native language.  It's also why I am having some trouble finishing it.
 
-I do know however that it is the story about a young Japanese woman who was arranged to be married and just a few days later left to live together in a foreign land.  It is quite a unique experience, just a few decades after a world war between the two countries.
+I do know however that it is the story about a young Japanese woman who was arranged to be married and just a few days later left to live together in a foreign land.  It is quite a unique experience, especially considering the time when moving across the world was rare.
