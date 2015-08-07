@@ -16,7 +16,7 @@ Salvation came when doing a search on the subject and I found [this link](http:/
 
 If you don't skip the entire process when it's a redirect (the if statement) then the flash attributes will disappear because it will be considered rendered.
 
-<code>
+`
     @Override
     public void postHandle(HttpServletRequest request, HttpServletResponse response, Object handler, ModelAndView modelAndView) throws Exception {
         if(modelAndView != null && !modelAndView.getViewName().startsWith("redirect:")) {
@@ -24,6 +24,6 @@ If you don't skip the entire process when it's a redirect (the if statement) the
             modelAndView.getModel().put(MODEL_ATTR_NAME_TIME_ZONE_ID, userTimeZoneId != null ? userTimeZoneId : defaultTimeZoneId);
         }
     }
-</code>
+`
 
 I'm waiting for when there is a RedirectAttributes parameter in Interceptors to make this more intuitive.
