@@ -1,5 +1,5 @@
 ---
-title: Mentioned by another webiste
+title: Mentioned by another website
 subtitle: feelsgood
 layout: post
 date: 2016-02-07
