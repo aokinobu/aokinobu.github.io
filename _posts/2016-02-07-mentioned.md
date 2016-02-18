@@ -2,7 +2,7 @@
 title: Mentioned by another webiste
 subtitle: feelsgood
 layout: post
-date: {}
+date: 2015-06-16
 category: 
   - development
 description: mentioned on twitter
